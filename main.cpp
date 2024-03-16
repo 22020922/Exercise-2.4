@@ -19,7 +19,7 @@ int main() {
   cin >> angleDegrees;
 
   
-  distanceFeet = distanceInches
+  distanceFeet = distanceInches;
   distanceFeet = distanceInches / 12.0;
 
   double angleRadians = angleDegrees * M_PI / 180.0;
